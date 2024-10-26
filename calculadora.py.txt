@@ -1,2 +1,0 @@
-#los avengers
-input("!HOLA MUNDO");
